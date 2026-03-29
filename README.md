@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Lilkhan55/Lilkhan55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alikhan, a Python Backend Developer focused on building web applications with Python and Django.  
+Interested in backend architecture, databases, and scalable systems. 
 
-Here are some ideas to get you started:
+## Сore Stack:
+- Python
+- Django
+- PostgreSQL
+- Redis
+- Nginx
+- Docker
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- Django Library System
+- REST API for book management
