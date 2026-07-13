@@ -11,6 +11,11 @@ Interested in backend architecture, databases, and scalable systems.
 - Nginx
 - Docker
 - Git
+- Gitlab CI
+- Celery
+- Grafana
+- Prometeus
+- Pytest
 
 ## Projects
 
